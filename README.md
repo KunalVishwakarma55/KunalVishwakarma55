@@ -1,69 +1,109 @@
-<h1 align="center">Hello, I'm <span style="color:#F39C12;">Kunal Vishwakarma</span></h1>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel;Turning+Data+into+Insights&center=true&width=500" alt="Typing SVG" />
-</h3>
+# 👋 Hi, I'm Kunal Vishwakarma
 
-<p align="center">
-  <img src="https://jobpakado.com/wp-content/uploads/2024/04/Data-Science.gif" width="300" alt="data-gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel;Transforming+Data+into+Insights;Turning+Dashboards+into+Decisions" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KunalVishwakarma55&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KunalVishwakarma55?color=58A6FF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
 </p>
 
----
-
-### ✨ About Me  
-- 📊 Aspiring **Data Analyst** skilled in **Python**, **SQL**, **Power BI**, and **Excel**  
-- 🛠️ Specialized in **Data Cleaning**, **Visualization**, and **Dashboard Building**  
-- 📈 Love to analyze patterns, trends, and build **data-driven stories**  
-- 🌱 Currently exploring **Advanced SQL**, **DAX**, and **Time Series Forecasting**
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+## 🧠 About Me
+
+- 📊 Aspiring **Data Analyst** with a passion for making data-driven decisions  
+- 🧰 Skilled in: **Python**, **SQL**, **Excel**, **Power BI**, **Pandas**, **NumPy**, **Matplotlib**  
+- 🛠️ Specialized in **Data Cleaning**, **EDA**, **Dashboard Building**, and **Data Storytelling**  
+- 🚀 Currently learning **Time Series Forecasting**, **DAX**, and **Advanced SQL**  
+- 💡 Always exploring tools & trends in data analytics  
+- ☕ *Fun Fact:* I analyze data like cricket scores — numbers always tell a story!
 
 ---
 
-### 🌱 Currently Learning  
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=plotly&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🔍 Currently Learning
+
 - 📌 Advanced Python for Data Analysis  
 - 📌 Complex SQL Joins & Window Functions  
-- 📌 Power BI DAX Expressions  
-- 📌 Time Series Analysis  
+- 📌 DAX Formulas for Power BI  
+- 📌 Time Series Forecasting  
 - 📌 Data Storytelling Techniques  
-- 📌 Portfolio Project Building  
+- 📌 Portfolio Project Building
 
 ---
 
-### 💬 Ask Me About  
-- 📊 Data Analysis Techniques  
-- 📈 Power BI Dashboards & DAX  
-- 🐍 Python Libraries (Pandas, NumPy, Matplotlib)  
-- 🧼 Data Cleaning & Transformation  
-- 📋 Building Insightful Visuals  
+## 🏆 Highlights & Achievements
+
+<div align="center">
+
+| 🎓 Education | 💼 Projects | 📈 Skills |
+|-------------|------------|-----------|
+| BSc IT – Mumbai University | Real datasets cleaned with Python & SQL | Dashboards in Excel & Power BI |
+| Data Projects on GitHub | KPI Reports, Trend Analysis | EDA, DAX, Python Libraries |
+| Constant Learner | Building personal portfolio | Data Visualization Mastery |
+
+</div>
 
 ---
 
-### 📫 Connect With Me  
-📧 Email: kunalvishwakarma7185@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/kunal-vishwakarma-18686636a/](https://www.linkedin.com/in/kunal-vishwakarma-18686636a/)
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalVishwakarma55&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalVishwakarma55&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KunalVishwakarma55&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5f4c7db4-9dd3-49e9-8cee-0a38df490195" alt="Motivational Image" width="250">
-</p>
+## 🤝 Connect With Me
 
-<p align="center">
-  <strong><em>“In the world of chaos, a Data Analyst brings clarity — one dataset at a time.”</em></strong>
-</p>
+<div align="center">
 
-<p align="center">
-  🙏 Thanks for visiting – Let’s turn data into magic together!
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-vishwakarma-18686636a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalvishwakarma7185@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote  
+*"In the world of data, clarity is power."*  
+**Let’s turn raw data into meaningful stories.**
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%" />
+</div>
