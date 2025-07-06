@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <span style="color:#F39C12;">Kunal Vishwakarma</span></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel&center=true&width=500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel&center=true&width=500" alt="Typing SVG" />
 </h3>
 
 <p align="center">
