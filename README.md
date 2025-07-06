@@ -1,62 +1,66 @@
-# Hello, I'm Kunal Vishwakarma 👋
+<h1 align="center">Hello, I'm <span style="color:#F39C12;">Kunal Vishwakarma</span></h1>
 
-### 🧠 Python • 📊 SQL • 📈 Power BI • 📋 Excel
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel&center=true&width=500" alt="Typing SVG" />
+</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-
----
-
-## 👨‍💻 About Me
-
-🔍 Passionate **Data Analyst** skilled in **Python, SQL, Power BI, and Excel**  
-🧹 Specialized in **data cleaning**, **visualization**, and building **interactive dashboards**  
-🎯 Always curious & love learning and sharing knowledge  
+<p align="center">
+  <img src="https://jobpakado.com/wp-content/uploads/2024/04/Data-Science.gif" width="300" alt="data-science-gif">
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+### 💫 About Me  
+- 👨‍💻 Passionate **Data Analyst** skilled in **Python**, **SQL**, **Power BI**, and **Excel**  
+- 📌 Specialized in **data cleaning**, **visualization**, and **building insightful dashboards**  
+- 🌱 Forever curious & love sharing knowledge  
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced SQL Joins & Window Functions  
-- Power BI DAX  
-- Python Libraries for Data  
-- Data Storytelling Techniques  
-- Time Series Analysis  
-
----
-
-## 💬 Ask Me About
-
-- Data Cleaning & Analysis  
-- Power BI Dashboards  
-- Python Libraries like Pandas, NumPy  
-- Building Insightful Dashboards  
+### 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🌱 Currently Learning  
+> 📌 Advanced Python for Data Analysis  
+> 📌 Complex SQL Joins & Window Functions  
+> 📌 Power BI DAX Expressions  
+> 📌 Data Storytelling Techniques  
+> 📌 Time Series Analysis  
+> 📌 Portfolio Project Building  
 
-📧 Email: kunal.yourname@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/kunal-yourprofile](https://www.linkedin.com/in/kunal-yourprofile)  
+---
+
+### 💬 Ask Me About  
+> 📊 Data Analysis Techniques  
+> 📈 Power BI Dashboards & DAX  
+> 🐍 Python Libraries for Data  
+> 📌 Cleaning & Transforming Large Datasets  
+> 📋 Building Insightful Visuals  
+
+---
+
+### 📫 Connect With Me  
+📧 Email: kunalvishwakarma7185@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/kunal-vishwakarma-18686636a/](https://www.linkedin.com/in/kunal-vishwakarma-18686636a/)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5f4c7db4-9dd3-49e9-8cee-0a38df490195" alt="Motivational Image" width="250">
 </p>
 
 <p align="center">
-  <i>"In a world of data chaos, a Data Analyst brings clarity — one dataset at a time."</i>  
-  <br>Thanks for visiting! 💙 Let's turn data into insights!
+  <strong><em>“In the world of chaos, a Data Analyst brings clarity — one dataset at a time.”</em></strong>
 </p>
+
+<p align="center"> Thanks for visiting – Let’s turn data into magic together! </p>
