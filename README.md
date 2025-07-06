@@ -31,26 +31,30 @@
 ---
 
 ### 🌱 Currently Learning  
-> 📌 Advanced Python for Data Analysis  
-> 📌 Complex SQL Joins & Window Functions  
-> 📌 Power BI DAX Expressions  
-> 📌 Data Storytelling Techniques  
-> 📌 Time Series Analysis  
-> 📌 Portfolio Project Building  
+<ul>
+  <li>📌 Advanced Python for Data Analysis</li>
+  <li>📌 Complex SQL Joins & Window Functions</li>
+  <li>📌 Power BI DAX Expressions</li>
+  <li>📌 Data Storytelling Techniques</li>
+  <li>📌 Time Series Analysis</li>
+  <li>📌 Portfolio Project Building</li>
+</ul>
 
 ---
 
 ### 💬 Ask Me About  
-> 📊 Data Analysis Techniques  
-> 📈 Power BI Dashboards & DAX  
-> 🐍 Python Libraries for Data  
-> 📌 Cleaning & Transforming Large Datasets  
-> 📋 Building Insightful Visuals  
+<ul>
+  <li>📊 Data Analysis Techniques</li>
+  <li>📈 Power BI Dashboards & DAX</li>
+  <li>🐍 Python Libraries for Data</li>
+  <li>📌 Cleaning & Transforming Large Datasets</li>
+  <li>📋 Building Insightful Visuals</li>
+</ul>
 
 ---
 
 ### 📫 Connect With Me  
-📧 Email: kunalvishwakarma7185@gmail.com  
+📧 Email: [kunalvishwakarma7185@gmail.com](mailto:kunalvishwakarma7185@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/kunal-vishwakarma-18686636a/](https://www.linkedin.com/in/kunal-vishwakarma-18686636a/)
 
 ---
@@ -63,4 +67,4 @@
   <strong><em>“In the world of chaos, a Data Analyst brings clarity — one dataset at a time.”</em></strong>
 </p>
 
-<p align="center"> Thanks for visiting – Let’s turn data into magic together! </p>
+<p align="center">Thanks for visiting – Let’s turn data into magic together! ✨</p>
